@@ -1,0 +1,2 @@
+Installing software on your own computer
+Ubuntu: To install Git on Ubuntu, open the terminal and type the following commands 
